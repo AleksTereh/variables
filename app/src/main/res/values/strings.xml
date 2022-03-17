@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">variables</string>
+    <string name="первое_значение">первое значение</string>
+    <string name="_результат">результат</string>
+    <string name="второе_значение">второе значение</string>
+    <string name="_сложить">сложить</string>
+</resources>
